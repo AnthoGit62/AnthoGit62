@@ -21,7 +21,7 @@
 </p>
 
 
-<div style="text-align: right">
+<div style="display: flex;  justify-content: flex-end;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA0YXQyMXo2bHJzd3R1c2VmdnBvMGdlNzR2OWR2NW94Y25ja2htbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif" alt="Animation">
 </div>
 
