@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I love everything related to networks, infrastructure, and computer hardware configuration.</h3>
-<center>
+
+<br><br>
 
   - 🌱 I’m currently learning **to use Cisco Packet Tracer.**
 
@@ -12,7 +13,7 @@
 
   - ⚡ Fun fact **I'm not fun.**
 
-</center>
+<br><br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
