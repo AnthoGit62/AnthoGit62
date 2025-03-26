@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I love everything related to networks, infrastructure, and computer hardware configuration.</h3>
 <center>
-- 🌱 I’m currently learning **to use Cisco Packet Tracer.**
 
-- 👨‍💻 All of my projects are available at [https://anthonyseys.onrender.com](https://anthogit62.github.io/cv-exp/)
+  - 🌱 I’m currently learning **to use Cisco Packet Tracer.**
 
-- 💬 Ask me about **anything you wish.**
+  - 👨‍💻 All of my projects are available at [https://anthonyseys.onrender.com](https://anthogit62.github.io/cv-exp/)
 
-- 📫 How to reach me **antho.moi.62730@gmail.com**
+  - 💬 Ask me about **anything you wish.**
 
-- ⚡ Fun fact **I'm not fun.**
+  - 📫 How to reach me **antho.moi.62730@gmail.com**
+
+  - ⚡ Fun fact **I'm not fun.**
 
 </center>
 
