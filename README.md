@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I love everything related to networks, infrastructure, and computer hardware configuration.</h3>
-<p align="center">
+<center>
 - 🌱 I’m currently learning **to use Cisco Packet Tracer.**
 
 - 👨‍💻 All of my projects are available at [https://anthonyseys.onrender.com](https://anthogit62.github.io/cv-exp/)
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm not fun.**
 
-</p>
+</center>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
